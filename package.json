@@ -1,0 +1,28 @@
+{
+  "name": "airline",
+  "version": "1.0.0",
+  "description": "sample code for learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "testAirline"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarvesh-singh/airline.git"
+  },
+  "keywords": [
+    "aireline",
+    "sarvesh",
+    "singhrour",
+    "learning",
+    "sample",
+    "lynda.com",
+    "salesforce"
+  ],
+  "author": "Sarvesh Singhrour <sarveshsingh1234@gmail.com>",
+  "license": "(BSD-2-Clause)",
+  "bugs": {
+    "url": "https://github.com/sarvesh-singh/airline/issues"
+  },
+  "homepage": "https://github.com/sarvesh-singh/airline#readme"
+}
